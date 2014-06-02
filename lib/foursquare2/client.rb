@@ -19,6 +19,7 @@ module Foursquare2
     include Specials
     include Users
     include Pages
+    include PagesUpdate
     include Campaigns
     include Lists
     include Events
